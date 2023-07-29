@@ -1,0 +1,7 @@
+﻿  Video_lzy.cpp
+  Video_lzyDlg.cpp
+d:\opencv项目\video_lzy\video_lzy\video_lzydlg.cpp(341): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\opencv项目\video_lzy\video_lzy\video_lzydlg.cpp(342): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\opencv项目\video_lzy\video_lzy\video_lzydlg.cpp(343): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  Video_lzy.vcxproj -> D:\opencv项目\Video_lzy\x64\Debug\Video_lzy.exe
